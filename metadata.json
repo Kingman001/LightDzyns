@@ -1,0 +1,9 @@
+{
+  "name": "LightDzyns",
+  "description": "Premium IT startup portfolio for LightDzyns, specializing in web development, graphic design, and digital training, featuring an AI-powered project consultant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
